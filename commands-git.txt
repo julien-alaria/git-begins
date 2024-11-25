@@ -1,0 +1,4 @@
+Commande ECHO activ‚e.
+hello world 
+git cloe url_du_depository 
+git clone url_du_depository / git_add / git_commit-m"" / git_push 
